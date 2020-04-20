@@ -30,3 +30,7 @@ for i in range(len(box)) :
 
 for i in productinfo :
     print(i)
+    
+    
+    
+ # 네이버 쇼핑에서 여성 가디건을 이름, 가격, 등록일 기준으로 크롤링하였습니다.
